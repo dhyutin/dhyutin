@@ -12,7 +12,8 @@
 - :nerd_face: Always `learning new things`.
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## Connect with me
+
 <p align="center">
 	<a href="mailto:dhyutin9@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="[https://github.com/7oSkaaa](https://github.com/dhyutin)"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -20,9 +21,9 @@
 </p>
 
 
-## 🛠️ My Skills
+## My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -47,7 +48,7 @@
   </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### Software & Tools
  
 <p align="center">
   &emsp;
@@ -88,7 +89,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### Operating Systems
  
 <p align="center">
   &emsp;
@@ -100,11 +101,3 @@
 </p>
 
 ---
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
-
-
-
