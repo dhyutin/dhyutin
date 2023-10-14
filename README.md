@@ -4,7 +4,7 @@
 </p>
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## About me
 
 - :school: I am a currently a final year CS Dual Degree student at IIITDM Kancheepuram
 - 🏆: HTTA Fellowship, from Ministry of Education, Government of India 
