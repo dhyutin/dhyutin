@@ -7,7 +7,8 @@
 ## About me
 
 - :school: I am a currently a final year CS Dual Degree student at IIITDM Kancheepuram
-- 🏆: HTTA Fellowship, from Ministry of Education, Government of India 
+- 🏆: HTTA Fellowship, from Ministry of Education, Government of India
+- 🥇: OpenCV AI Competition 2022 Global Finalist
 - :technologist: I love getting lost in the world of Machine Learning and attempting to solve real life problems.
 - :nerd_face: Always `learning new things`.
 <br>
