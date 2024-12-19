@@ -7,10 +7,7 @@
 ## About me
 
 - :school: I am a currently pursuing MSAI in Northwestern University
-- 🏆: HTTA Fellowship, from Ministry of Education, Government of India
 - 🥇: OpenCV AI Competition 2022 Global Finalist
-- :technologist: I love getting lost in the world of Machine Learning and attempting to solve real life problems.
-- :nerd_face: Always `learning new things`.
 - 🌐: Check out my [Portfolio Website](https://dhyutin.github.io/)
 <br>
 
