@@ -11,6 +11,7 @@
 - 🥇: OpenCV AI Competition 2022 Global Finalist
 - :technologist: I love getting lost in the world of Machine Learning and attempting to solve real life problems.
 - :nerd_face: Always `learning new things`.
+- 🌐: Check out my [Portfolio Website](https://dhyutin.github.io/)
 <br>
 
 ## Connect with me
@@ -100,5 +101,3 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
-
----
